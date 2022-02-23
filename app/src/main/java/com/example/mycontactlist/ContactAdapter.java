@@ -110,3 +110,4 @@ public class ContactAdapter extends RecyclerView.Adapter{
         isDeleting = b;
     }
 }
+
